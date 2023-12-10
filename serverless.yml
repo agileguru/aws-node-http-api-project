@@ -1,4 +1,4 @@
-org: trainwithshubham
+org: agileguru
 app: aws-node-http-api-project
 service: aws-node-http-api-project
 frameworkVersion: '3'
@@ -12,7 +12,7 @@ provider:
       Action:
         - dynamodb:*
       Resource:
-        - arn:aws:dynamodb:us-east-1:626072240565:table/KaamKaro
+        - arn:aws:dynamodb:us-east-1:925566752034:table/KaamKaro
 
 functions:
   hello:
