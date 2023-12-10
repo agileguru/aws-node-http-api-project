@@ -1,4 +1,4 @@
-org: trainwithshubham
+org: agileguru
 app: aws-node-http-api-project
 service: aws-node-http-api-project
 frameworkVersion: '3'
